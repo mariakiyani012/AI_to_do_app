@@ -2,6 +2,10 @@
 
 This is a Streamlit-based to-do application enhanced with AI features. It allows users to add tasks, automatically generate subtasks, and translate tasks into different languages using Groq's LLM API.
 
+# Deployed Link
+
+https://mariakiyani012-ai-to-do-app-app-um3dx7.streamlit.app/
+
 ## Features
 
 - Add new to-do tasks
